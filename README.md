@@ -24,3 +24,8 @@ Cloudflare Worker 可以用来处理 HTTP 请求，从而允许开发者通过�
 
 V2raySSR综合网，[详情地址](https://v2rayssr.com/worker-vless.html)
 
+4. 详细部署文档
+
+## https://v2rayssr.com/worker-vless.html
+
+
